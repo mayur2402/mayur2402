@@ -9,7 +9,9 @@
 - ⚡ LeetCode Profile : https://leetcode.com/mayur2402/
 ### Connect with me:
 
-[<img align="left" alt="aniket1004 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/TheLogicalNights/TheLogicalNights/main/img/linkedIn.png" />][linkedin]
+[<img align="left" alt="mayur2402 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/TheLogicalNights/TheLogicalNights/main/img/linkedIn.png" />][linkedin]
+[<img align="left" alt="mayur2402 | Instagram" width="32px" src="img/instagram.png" />][instagram]
+[<img align="left" alt="mayur2402 | twitter" width="22px" src="img/twitter.png" />][twitter]
 
 <br/>
 
