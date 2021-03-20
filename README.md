@@ -17,7 +17,8 @@
 
 
 [linkedin]: https://www.linkedin.com/in/mayur-dimble-3b7a6895/
-
+[instagram]: https://www.instagram.com/mayur.2402/
+[twitter]: https://twitter.com/DimbleMayur
 
 ### Languages and tools
 
