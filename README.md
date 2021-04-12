@@ -3,8 +3,8 @@
 #### I'm Developer, Self-Learner, Student.
 
 
-- 🔭 I’m currently working on Blazor.
-- 🌱 I’m currently learning building the api.
+- 🔭 I’m currently working on Moodle
+- 🌱 I’m currently learning Moodle LMS.
 - 💬 Ask me about programming.
 - ⚡ LeetCode Profile : https://leetcode.com/mayur2402/
 ### Connect with me:
