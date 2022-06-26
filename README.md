@@ -3,7 +3,7 @@
 #### I'm Developer, Self-Learner, Student.
 
 
-- 🔭 I’m currently working on Asp Dotnet Core 3.1,Angular 8
+- 🔭 I’m currently working on Asp Dotnet Core 3.1,Angular 8,Learing Android Development
 - 💬 Ask me about programming.
 - ⚡ LeetCode Profile : https://leetcode.com/mayur2402/
 ### Connect with me:
